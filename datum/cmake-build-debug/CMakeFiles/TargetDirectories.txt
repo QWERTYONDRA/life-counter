@@ -1,0 +1,3 @@
+/home/qwerti/Downloads/IT1-Vosa/datum/cmake-build-debug/CMakeFiles/datum.dir
+/home/qwerti/Downloads/IT1-Vosa/datum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qwerti/Downloads/IT1-Vosa/datum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
